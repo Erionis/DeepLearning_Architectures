@@ -1,6 +1,6 @@
 # Deep Learning - NYU
 
-Benvenuti nel mio repository di apprendimento profondo! Questo repository contiene i file Jupyter Notebook relativi alle diverse architetture di deep learning che ho studiato durante il mio corso di DeepLearning delle New York University.
+Questo repository contiene i file Jupyter Notebook relativi alle diverse architetture di deep learning che ho studiato durante il mio corso di DeepLearning delle New York University.
 
 ## Architetture Incluse
 
