@@ -1,18 +1,23 @@
-# Deep Learning - NYU
+# Deep Learning Architectures from New York University's Deep Learning Course
 
-Questo repository contiene i file Jupyter Notebook relativi alle diverse architetture di deep learning che ho studiato durante il mio corso di DeepLearning delle New York University.
+This repository contains Jupyter Notebook files related to various deep learning architectures that I studied during my Deep Learning course at New York University.
 
-## Architetture Incluse
+## Included Architectures
+1. Convolutional Neural Networks (CNNs)
 
-1. **Reti Neurali Convoluzionali (CNN)**
-   - Descrizione: Implementazione e applicazioni delle reti neurali convoluzionali per la visione artificiale.
+   Description: Implementation and applications of Convolutional Neural Networks for computer vision tasks.
 
-2. **Reti Neurali Ricorrenti (RNN)**
-   - Descrizione: Studio delle reti neurali ricorrenti e loro utilizzo per sequenze di dati, come testi e serie temporali.
+2. Recurrent Neural Networks (RNNs)
 
-3. **Reti Neurali Generative Avversariali (GAN)**
-   - Descrizione: Esplorazione delle reti neurali generative avversariali per la generazione di dati realistici, come immagini.
+   Description: Study of Recurrent Neural Networks and their usage for sequential data, such as text and time series.
 
-4. **Reti Neurali Trasformative (Transformer)**
-   - Descrizione: Approfondimento dell'architettura Transformer e sua applicazione in modelli come BERT.
+3. Generative Adversarial Networks (GANs)
+
+   Description: Exploration of Generative Adversarial Networks for generating realistic data, such as images.
+
+4. Transformers Neural Networks (Transformers)
+
+   Description: In-depth exploration of the Transformer architecture and its application in models like BERT.
+
+Feel free to explore the Jupyter Notebook files corresponding to each architecture. These notebooks provide insights into the theory and practical implementations of these deep learning models.
 
